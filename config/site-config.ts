@@ -125,7 +125,7 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "2x1",
     type: "mentor",
-    title: "Web Design and Marketing OFFER!",
+    title: "OFFER!",
     icon: "superpeer",
     promotion: "LIMITEDTIMEOFFER",
     oldPrice: "$680",
