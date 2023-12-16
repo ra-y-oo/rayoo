@@ -135,7 +135,7 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "2x1",
     type: "project",
-    title: "makrAI",
+    title: "rayoo",
     icon: "github",
     color: "#070707",
     buttonLink: "https://github.com/ra-y-oo",
@@ -172,6 +172,6 @@ export const siteConfig = {
   location: "webbyrayoo.tech",
   locationLink:
     "https://webbyrayoo.tech/",
-  email: "batuhanbilginn@gmail.com",
+  email: "ryanomoro37@gmail.com",
   items: GridItems,
 } as const;
