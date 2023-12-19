@@ -87,15 +87,15 @@ const GridItems: GridItemInterface[] = [
       },
       {
         title: "Chat App",
-        link: "https:/",
+        link: "https://github.com/ra-y-oo/chatapp",
       },
       {
-        title: "Godox M1 RGB",
-        link: "https",
+        title: "URL Shortener",
+        link: "https://github.com/ra-y-oo/URL-shortener",
       },
       {
-        title: "Elgato Camlink 4K",
-        link: "https",
+        title: "AirBnB Clone",
+        link: "https://github.com/ra-y-oo/AirBnB_clone_v2",
       },
     ],
   },
@@ -115,16 +115,6 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "2x1",
     type: "mentor",
-    title: "Free Web Design",
-    icon: "superpeer",
-    promotion: "LIMITEDTIMEOFFER",
-    oldPrice: "$180",
-    price: "$40",
-    buttonLink: "https://calendly.com/webbyrayoo/30min",
-  },
-  {
-    layout: "2x1",
-    type: "mentor",
     title: "OFFER!",
     icon: "superpeer",
     promotion: "LIMITEDTIMEOFFER",
@@ -135,10 +125,10 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "2x1",
     type: "project",
-    title: "rayoo",
+    title: "chat app",
     icon: "github",
     color: "#070707",
-    buttonLink: "https://github.com/ra-y-oo",
+    buttonLink: "https://github.com/ra-y-oo/chatapp",
     stars: 0,
   },
   {
@@ -157,11 +147,11 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "2x1",
     type: "project",
-    title: "AI Blog Post Generator",
+    title: "webbyrayoo",
     icon: "github",
     stars: 0,
     color: "#070707",
-    buttonLink: "https://github.com/ra-y-oo",
+    buttonLink: "https://github.com/ra-y-oo/webbyrayoo",
   },
 ];
 
