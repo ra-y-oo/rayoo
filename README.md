@@ -6,7 +6,7 @@ RAYOO is a personal portfolio built with next.js.
 
 Use the package manager [yarn](https://classic.yarnpkg.com/en/) to install the app.
 
-Run the following command to install the project dependencies specified in the 
+Run the following command to install the project dependencies specified in the package.json
 
 ```bash
 yarn install
