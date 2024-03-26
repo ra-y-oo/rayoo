@@ -40,15 +40,16 @@ Users should be able to:
 
 Here are some of the concepts I learnt during the development of this portfolio app.
 
-
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
+
 ```js
 const proudOfThisFunc = () => {
   console.log('🎉')
