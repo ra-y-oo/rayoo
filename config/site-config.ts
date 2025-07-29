@@ -70,32 +70,24 @@ const GridItems: GridItemInterface[] = [
     image: "/equipments-image.jpg",
     equipments: [
       {
-        title: "Wema House",
-        link: "https://wemahouse.com/",
+        title: "Omuga Media",
+        link: "https://www.omuga.co.ke/",
       },
       {
-        title: "Webbyrayoo",
-        link: "https://webbyrayoo.tech/",
+        title: "Murble Tours",
+        link: "https://murbletours.co.ke/",
       },
       {
         title: "Quizwiz",
         link: "https://ra-y-oo.github.io/triviaWebapp/",
       },
       {
-        title: "3themed Calc",
-        link: "https://ra-y-oo.github.io/calculator-app-main/",
+        title: "Booking Experience",
+        link: "https://www.behance.net/gallery/229833987/Tour-Booking-UX-Case-Study",
       },
       {
-        title: "Chat App",
-        link: "https://github.com/ra-y-oo/chatapp",
-      },
-      {
-        title: "URL Shortener",
-        link: "https://github.com/ra-y-oo/URL-shortener",
-      },
-      {
-        title: "AirBnB Clone",
-        link: "https://github.com/ra-y-oo/AirBnB_clone_v2",
+        title: "Surreal Tech",
+        link: "https://www.surrealtech.shop/",
       },
     ],
   },
@@ -117,7 +109,7 @@ const GridItems: GridItemInterface[] = [
     type: "mentor",
     title: "OFFER!",
     icon: "superpeer",
-    promotion: "LIMITEDTIMEOFFER",
+    promotion: "Book a Call",
     oldPrice: "$680",
     price: "$400",
     buttonLink: "https://calendly.com/webbyrayoo/30min",
