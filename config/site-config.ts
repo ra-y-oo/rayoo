@@ -94,11 +94,11 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "2x2",
     type: "social",
-    title: "Facebook",
-    icon: "facebook",
+    title: "LinkedIn",
+    icon: "linkedin",
     username: "@_ray00_",
     buttonTitle: "Follow",
-    buttonLink: "https://web.facebook.com/designs.surrealtech/",
+    buttonLink: "https://www.linkedin.com/in/webbyrayoo/",
     buttonSecondaryText: "",
     color: "#1DA1F2",
     description:
