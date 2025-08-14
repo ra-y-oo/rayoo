@@ -121,7 +121,7 @@ const GridItems: GridItemInterface[] = [
     icon: "behance",
     color: "#070707",
     buttonLink: "https://www.behance.net/gallery/229998561/Designing-A-Brand-That-Moves-Omuga-Media",
-    stars: 0,
+    stars: 5,
   },
   {
     layout: "2x2",
@@ -141,7 +141,7 @@ const GridItems: GridItemInterface[] = [
     type: "project",
     title: "One Dollar, One Tree Planting, Impact",
     icon: "behance",
-    stars: 0,
+    stars: 5,
     color: "#070707",
     buttonLink: "https://www.behance.net/gallery/231693739/One-Dollar-One-Tree-Planting-Impact",
   },
