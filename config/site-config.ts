@@ -48,10 +48,10 @@ const GridItems: GridItemInterface[] = [
     icon: "github",
     username: "@ra-y-oo",
     buttonTitle: "Follow",
-    buttonSecondaryText: "",
+    buttonSecondaryText: "Now",
     buttonLink: "https://github.com/ra-y-oo",
     color: "#070707",
-  },,
+  },
   {
     layout: "1x2",
     type: "social",
