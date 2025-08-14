@@ -118,7 +118,7 @@ const GridItems: GridItemInterface[] = [
     layout: "2x1",
     type: "project",
     title: "Omuga Media Brand Identity Design",
-    icon: "github",
+    icon: "behance",
     color: "#070707",
     buttonLink: "https://www.behance.net/gallery/229998561/Designing-A-Brand-That-Moves-Omuga-Media",
     stars: 0,
