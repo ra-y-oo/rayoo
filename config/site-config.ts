@@ -87,7 +87,7 @@ const GridItems: GridItemInterface[] = [
       },
       {
         title: "Surreal Tech",
-        link: "https://www.surrealtech.shop/",
+        link: "https://www.design.surrealtech.shop/",
       },
     ],
   },
