@@ -117,10 +117,10 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "2x1",
     type: "project",
-    title: "Image Tracker",
+    title: "Omuga Media Brand Identity Design",
     icon: "github",
     color: "#070707",
-    buttonLink: "https://tracker.omuga.co.ke/",
+    buttonLink: "https://www.behance.net/gallery/229998561/Designing-A-Brand-That-Moves-Omuga-Media",
     stars: 0,
   },
   {
@@ -143,7 +143,7 @@ const GridItems: GridItemInterface[] = [
     icon: "github",
     stars: 0,
     color: "#070707",
-    buttonLink: "https://webapppos.onrender.com/",
+    buttonLink: "https://pos.surrealtech.shop",
   },
 ];
 
