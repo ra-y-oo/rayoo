@@ -87,7 +87,7 @@ const GridItems: GridItemInterface[] = [
       },
       {
         title: "Surreal Tech",
-        link: "https://www.design.surrealtech.shop/",
+        link: "https://design.surrealtech.shop",
       },
     ],
   },
@@ -153,7 +153,7 @@ export const siteConfig = {
   bio: "A creative Developer and Designer. Building the best user experiences through the power of design.",
   location: "surrealtech.shop",
   locationLink:
-    "https://surrealtech.shop/",
+    "https://design.surrealtech.shop",
   email: "ryanomoro37@gmail.com",
   items: GridItems,
 } as const;
