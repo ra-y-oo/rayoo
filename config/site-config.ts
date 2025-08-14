@@ -139,11 +139,11 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "2x1",
     type: "project",
-    title: "webappPOS",
-    icon: "github",
+    title: "One Dollar, One Tree Planting, Impact",
+    icon: "behance",
     stars: 0,
     color: "#070707",
-    buttonLink: "https://pos.surrealtech.shop",
+    buttonLink: "https://www.behance.net/gallery/231693739/One-Dollar-One-Tree-Planting-Impact",
   },
 ];
 
